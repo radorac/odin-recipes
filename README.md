@@ -26,4 +26,7 @@ By completing this project, I practiced:
 ## What I Learned
 
 This project helped me become more comfortable with creating multi-page websites, organizing project files, and using Git to track changes. It also reinforced the fundamentals of HTML before moving on to CSS.
-# odin-recipes
+
+----
+
+**I used GPT for readme.md**
