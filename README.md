@@ -29,4 +29,4 @@ This project helped me become more comfortable with creating multi-page websites
 
 ----
 
-**I used GPT for readme.md**
+**I used GPT only for README.md**
